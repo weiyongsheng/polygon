@@ -90,7 +90,7 @@ class Polygon
      *
      * @return bool
      */
-    public function isContainPoint($lat, $lng)
+    public function contain($lat, $lng)
     {
         $count = 0;
         $points = $this->points;
