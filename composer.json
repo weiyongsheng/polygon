@@ -1,0 +1,23 @@
+{
+  "name": "weiyongsheng/polygon",
+  "description": "The Polygon class",
+  "keywords": [
+    "Polygon",
+    "Geo",
+    "Point-in-polygon"
+  ],
+  "authors": [
+    {
+      "name": "weiyongsheng",
+      "email": "shenglian3344@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Polygon": "src/"
+    }
+  }
+}
